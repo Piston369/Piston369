@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Piston369
-- 👀 I want to learn to program 
-- 🌱 I'm a beginner 
+- 😄 Hi, I’m @Piston369
+- 🩸 I want to learn to program 
+- 🕳️ I'm a beginner 
 
   
   
